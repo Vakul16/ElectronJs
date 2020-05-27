@@ -1,0 +1,14 @@
+{
+  "name": "crud-file",
+  "version": "1.0.0",
+  "description": "perform crud operations",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "vakul",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
