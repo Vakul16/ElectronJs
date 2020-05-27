@@ -1,0 +1,11 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "shell demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "vakul",
+  "license": "ISC"
+}

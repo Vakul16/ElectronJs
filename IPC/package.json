@@ -1,0 +1,14 @@
+{
+  "name": "ipc",
+  "version": "1.0.0",
+  "description": "inter process communication",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "vakul",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
